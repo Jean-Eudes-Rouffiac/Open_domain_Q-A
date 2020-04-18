@@ -1,0 +1,11 @@
+click
+stop_words
+gensim
+tensorflow
+numpy
+pandas
+sklearn
+nltk
+matplotlib
+seaborn
+fasttext
